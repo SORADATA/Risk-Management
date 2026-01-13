@@ -1,0 +1,7 @@
+# Ignore data directories
+data/raw/
+data/processed/
+
+# Alternative: Ignore all CSV files in data directories
+data/raw/*.csv
+data/processed/*.csv
